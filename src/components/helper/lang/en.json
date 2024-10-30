@@ -1,0 +1,106 @@
+{
+  "translation": {
+    "landing": {
+      "title": "Our services",
+      "subtitle": "software development, consultancy, support and sullutions ",
+      "title2": "Select your time and date and let us know about your project"
+    },
+
+    "webDevelopment": "Web Development",
+    "mobileDevelopment": "Mobile Development",
+    "consultancy": "Consultancy",
+    "support": "Support",
+    "solution": "Solution",
+    "navbar": {
+      "home": "home",
+      "contact": "Contact",
+      "consultation": "Consultation",
+      "about": "About",
+      "services": "Services",
+      "project": "Projects",
+      "login": "Login"
+    },
+    "footer": {
+      "description": "We provide the best services in the world",
+      "contact": "Contact us",
+      "about": "About us",
+      "services": "Services",
+      "automation": "Automation"
+    },
+
+    "contact": {
+      "title": "contact us",
+      "subtitle": "if you have any question or need any help, please feel free to contact us",
+      "name": "name",
+      "email": "email",
+      "message": "message",
+      "send": "send",
+      "contact": "contact",
+      "phone": "phoneNumber",
+      "datePicker": "date picker"
+    },
+    "about": {
+      "title": "Our special team ",
+      "subtitle": "This is our special team, they are the best in the world"
+    },
+    "sectionWork": {
+      "ourWork": "Our Work",
+      "subtitle": "We've done many projects"
+    },
+    "services": {
+      "title": "Our services",
+      "subtitle": "We provide the best services in the world",
+      "services": "Our services",
+      "servicesDescription": "How can we help you",
+      "learnMore": "LEARN MORE",
+      "1": "Software Development",
+      "2": "Counseling & Support",
+      "3": "Social Media Management"
+    },
+    "project": {
+      "title": "Our projects",
+      "subtitle": "We've done many projects"
+    },
+    "step": {
+      "title": "How we work",
+      "subtitle": "We provide the best services for our clients",
+      "stepify": "Get your project going in 3 steps",
+      "stepifyDescription": "Clarity gives you the blocks & components you need to create a truly professional website for  and gives the blocks.",
+
+      "step1Title": "Step-1: Start with a great design",
+      "step1Description": " Clarity gives you the blocks & components you need to create a website.",
+      "step2Title": "Step-2: Add clever content areas",
+      "step2Description": "Clarity gives you the blocks & components you need to create a website.",
+      "step3Title": "Step-3: Easily update your site",
+      "step3Description": " Clarity gives you the blocks & components you need to create a website."
+    },
+    "SelectList": {
+      "1": "Software Development",
+      "2": "Disign & ui/ux",
+      "3": "Counseling",
+      "4": "Support",
+      "5": "Tech Consultancy",
+      "6": "social media"
+    },
+    "OurService": {
+      "title": "Our services"
+    },
+    "startSection": {
+      "readyToStart": "you don't know where to start?",
+      "consult": "get free consultation",
+      "ourService": "The limit of our services is your will",
+      "areYouReady": "Are you ready to start?",
+      "talkAbout": "Let's talk about your project"
+    }
+  },
+  "packages": {
+    "webDevelopment": {
+      "title": "Web Development",
+      "description": "...",
+      "features": [
+        "Selection from premium WordPress templates",
+        "Basic customization (colors, fonts, logo)"
+      ]
+    }
+  }
+}
